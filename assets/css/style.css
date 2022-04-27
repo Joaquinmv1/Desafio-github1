@@ -10,3 +10,7 @@ body{
 .carousel-inner{
     max-height: 39rem;
 }
+.titulo h2{
+    display: flex;
+    justify-content: center;
+}
