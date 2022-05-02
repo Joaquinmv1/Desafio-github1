@@ -15,11 +15,10 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    grid-area:header;
     
 }
+
 main{
-   grid-area: main;
    display: flex;
    flex-direction: column;
    margin-bottom: 10px;
@@ -141,7 +140,7 @@ main img{
         box-shadow: 10px 10px 5px #888888;
         box-sizing: border-box;
         font-size: 20px;
-        width: 100%;
+        width: 80%;
         margin-top: 20px;
        
 }
